@@ -1,0 +1,63 @@
+html, body, h1, h3 , button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: helvetica;
+    font-weight: lighter;
+}
+body {
+    background-color: #f7e9bd;
+}
+#header {
+    padding: 20px 30px;
+    background-color: #e6ba2b;
+}
+ h3 {
+    float: left;
+}
+#nav {
+    float: right;
+    position: relative;
+    bottom: 25px;
+}
+#nav p {
+    display: inline-block;
+    color: #faf6e6;
+    padding: 0 7px;
+}
+#header h3 {
+    position: relative;
+    bottom: 15px;
+    color: #faf6e6;
+}
+#content {
+    text-align: center;
+    margin: 30px 0 0 30px;
+}
+.one, .two, .three, .four {
+    border: 2px solid #e6ba2b;
+    padding: 20px 20px 20px 20px;
+    background-color:#faf6e6;
+    margin: 10px 10px;
+    width: 280px;
+}
+.box p{
+    text-align: left;
+    padding: 5px 10px;
+    font-size: 15px;  
+}
+.box h1 {
+    text-align: left;
+}
+button {
+    background-color: #e6ba2b;
+    border: none;
+    padding: 5px 5px;
+    width: 95%;
+    color: #faf6e6;
+    border-radius: 4px;
+}
+.box {
+    float: left;
+    margin: 0px;
+}
