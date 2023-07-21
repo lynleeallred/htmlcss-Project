@@ -1,0 +1,128 @@
+html, body, h1, h2, h3 {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Montserrat';
+    color: #ffffff;
+}
+
+#top {
+    background-image: url('/Users/lynleeallred/Downloads/HTMLProjectAssets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg');
+    padding: 30px;
+    background-size: cover;
+    height: 770px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    filter: brightness(75%);
+}
+
+#top-menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 2px solid #fff;
+    font-family: Arial;
+    font-size: 20px; 
+    height: 30px;
+}
+
+#menu-label {
+    font-weight: bold;
+}
+
+#main-menu {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+#main-menu li {
+    margin: 0 10px;
+    font-size: 17px;
+}
+
+#main-menu li a {
+    text-decoration: none;
+    color: #fff;
+}
+#mid-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 170px;
+}
+#mid-title {
+    font-size: 100px;
+    border-bottom: 2px solid #ffff;
+    font-family: Arial;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+#mid-subtitle {
+    font-size: 50px;
+    padding: 20px;
+}
+.feature1 {
+    background-color:black;
+    display: flex;
+    align-items: center;
+    height: 350px;
+}
+.feature-image-left {
+    float: left;
+    height: 350px;
+}
+.feature-content {
+    text-align: left;
+    padding: 100px;
+}
+.feature-title {
+    font-size: 35px;
+    padding: 10px 0;
+    font-family: Arial;
+    font-weight: bold;
+}
+.feature-content p {
+    font-size: 22px;
+
+}
+.feature2 {
+    background-color: #181818;
+    height: 400px;
+    display:flex;
+    align-items: center;
+    flex-direction:row-reverse;
+}
+.feature2 p {
+    text-align: left;
+}
+.feature3 {
+    background-color: #272626;
+    height: 380px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+ #nav {
+    display:flex;
+}
+.box1 {
+    background-image: url(/Users/lynleeallred/Downloads/HTMLProjectAssets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
+    height: 790px;
+}
+h3 {
+    padding: 30px 40px;
+    font-size: 20px;
+}
+.first{
+    text-align:center;
+}
