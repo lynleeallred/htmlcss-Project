@@ -112,17 +112,4 @@ html, body, h1, h2, h3 {
 
 
 
- #nav {
-    display:flex;
-}
-.box1 {
-    background-image: url(/Users/lynleeallred/Downloads/HTMLProjectAssets/green-vegetables-on-brown-wooden-chopping-board-3952047.jpg);
-    height: 790px;
-}
-h3 {
-    padding: 30px 40px;
-    font-size: 20px;
-}
-.first{
-    text-align:center;
-}
+
